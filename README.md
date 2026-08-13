@@ -75,3 +75,7 @@ If using the data or code from this repository, please cite the associated manus
 Ohlson A, et al. *Evaluation of wastewater SARS-CoV-2 surveillance for monitoring COVID-19 trends and early warning in Sweden, 2023–2024.*
 
 The full citation will be added upon publication.
+
+## License
+
+The R code in this repository is available under the MIT License. See `LICENSE` for details.
